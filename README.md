@@ -1,2 +1,2 @@
 # CoronaCrown
-Small Arduino Project with disztance measuring
+Small Arduino Project with wearable distance measuring devices
